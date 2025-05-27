@@ -18,8 +18,7 @@
 ## Project Overview
 
 **Role Fit:** Data Analyst | Customer Experience | Operations & Product Insights  
-**Tools:** Python (pandas, matplotlib, seaborn)  
-**Time Frame Analyzed:** 2024 (sample data)  
+**Tools:** Python (pandas, matplotlib, seaborn)    
 **Demo:** [Newsletter](https://www.linkedin.com/pulse/support-matters-what-8000-tickets-reveal-customers-products-anyika-uzr4f)
 
 ![a-pencil-sketch-depicting-a-customer-sup_XqBVQ0GESsmxqUPPsF5_nA_3llX2csyQwSj5Msol2vMMw](https://github.com/user-attachments/assets/4760597e-0840-4cb5-bbf5-9244ded4fa43)
@@ -137,15 +136,16 @@ Inspired by Digital Witch Support Community training and real-world business cha
 ## Let’s Collaborate
 
 Interested in customer analytics, support optimization, or data-driven business strategy?  
-Let’s connect on [LinkedIn(https://www.linkedin.com/in/uchechukwu-lorreta-anyika-7b5b4a253/) or reach out via [Email](anyikauche001@gmail.com).
+Let’s connect on [LinkedIn](https://www.linkedin.com/in/uchechukwu-lorreta-anyika-7b5b4a253/) 
+Or reach out via [Email](anyikauche001@gmail.com).
 
 ---
 
 ## Newsletter
 
-For a deep dive into the analysis—including actionable insights, key charts, and recommendations—check out the full write-up:
+This analysis is the issue 004 of The ALU DATAK Brief. For a deep dive into the analysis—including actionable insights, key charts, and recommendations—check out the full write-up:
 
-[Support Matters: What 8,000+ Tickets Reveal About Our Customers and Products](https://www.linkedin.com/pulse/support-matters-what-8000-tickets-reveal-customers-products-anyika-uzr4f)
+[𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗧𝗶𝗰𝗸𝗲𝘁 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀](https://www.linkedin.com/pulse/support-matters-what-8000-tickets-reveal-customers-products-anyika-uzr4f)
 
 ---
 
